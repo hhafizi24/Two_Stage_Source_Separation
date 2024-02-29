@@ -1,4 +1,4 @@
-Two-Stage Compression and Source Separation:
+Overview:
 This repository contains Python code for performing two-stage compression and source separation on EEG data using unsupervised and supervised machine learning techniques such as Principal Component Analysis (PCA) and Generalized Eigendecomposition (GED). This method aims to compress EEG data while isolating meaningful signal sources to enhance data analysis.
 
 Data Source:
